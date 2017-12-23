@@ -1,0 +1,14 @@
+D:\Project\VisualStudio\WinApp\MES\MES\bin\Debug\MES.exe.config
+D:\Project\VisualStudio\WinApp\MES\MES\bin\Debug\MES.exe
+D:\Project\VisualStudio\WinApp\MES\MES\bin\Debug\MES.pdb
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.frmMain.resources
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.Properties.Resources.resources
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.csproj.GenerateResource.Cache
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.exe
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.pdb
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.frmAboutBox.resources
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.frmSplashScreen.resources
+D:\Project\VisualStudio\WinApp\MES\MES\obj\Debug\MES.BaseDialog.resources
+D:\Project\VisualStudio\WinApp\MES\MES\bin\Debug\Oracle.DataAccess.dll
