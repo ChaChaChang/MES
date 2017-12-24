@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base", "MES\Base.csproj", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Base", "Base", "{6A1F5DAB-85C6-41EA-8386-1F5FD8DBB6F9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{D4F6A881-BD8E-4CA8-94AE-0DE981156372}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logger", "Logger", "{D4F6A881-BD8E-4CA8-94AE-0DE981156372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Logging", "Core.Logging\Core.Logging.csproj", "{EA299FD0-773F-41ED-A612-4D989811A5D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,12 +21,17 @@ Global
 		{5A3514EF-4845-464D-94A2-2E3AB02F02FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A3514EF-4845-464D-94A2-2E3AB02F02FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A3514EF-4845-464D-94A2-2E3AB02F02FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA299FD0-773F-41ED-A612-4D989811A5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA299FD0-773F-41ED-A612-4D989811A5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA299FD0-773F-41ED-A612-4D989811A5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA299FD0-773F-41ED-A612-4D989811A5D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5A3514EF-4845-464D-94A2-2E3AB02F02FF} = {6A1F5DAB-85C6-41EA-8386-1F5FD8DBB6F9}
+		{EA299FD0-773F-41ED-A612-4D989811A5D6} = {D4F6A881-BD8E-4CA8-94AE-0DE981156372}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {414AAB97-CF8E-427F-ADC3-58ECC96A2729}
